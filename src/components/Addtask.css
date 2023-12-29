@@ -1,0 +1,49 @@
+.body{
+    display: flex;
+    justify-content: center;
+}
+.adding{
+    display: grid;
+    background-color: antiquewhite;
+    width: 510px;
+    height: auto;
+
+
+}
+.h2{
+    color: green;
+    width: 100px;
+    margin: 15px 215px 0px 195px;
+
+}
+.title{
+    width: 100px;
+    margin: 15px 205px 0px 205px;
+    font-size: 20px;
+    font-style: initial;
+
+}
+.inputtitle{
+    width: 500px;
+    height:50px;
+}
+.description{
+    width: 100px;
+    margin: 15px 205px 0px 205px;
+    font-size: 20px;
+    font-style: normal;
+
+}
+.areadescription{
+    width: 500px;
+    height: 200px;
+}
+.addtask{
+    background-color: rgb(9, 185, 9);
+    width: 200px;
+    margin: 0px 150px auto ;
+}
+
+
+
+

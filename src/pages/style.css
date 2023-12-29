@@ -1,0 +1,44 @@
+.instyle {
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+
+.listoftasks {
+  list-style: none;
+  padding: 0;
+}
+
+.listoftasks li {
+  margin-bottom: 10px;
+}
+
+.inputcheck {
+  margin-right: 10px;
+}
+
+.editbutton,
+.deletebutton {
+  text-decoration: none;
+  color: #0095f6;
+  cursor: pointer;
+}
+
+.addtaskbutton,
+.logoutbutton {
+  background-color: #0095f6;
+  color: #fff;
+  border: none;
+  padding: 10px 15px;
+  margin-top: 10px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.addtaskbutton:hover,
+.logoutbutton:hover {
+  background-color: #0077c2;
+}
